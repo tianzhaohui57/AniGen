@@ -16,3 +16,6 @@ AniGen 是一个个人项目，旨在使用 Stable Diffusion 生成并存储我�
 ## 📜 许可证
 
 本仓库内容为个人使用和收藏，不用于商业用途
+
+
+<img src="https://counter.seku.su/cmoe?name=AniGen&theme=mb" />
